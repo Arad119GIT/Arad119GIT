@@ -4,7 +4,7 @@
 <h3 align="center">Je suis passionné du développement en tout genre.</h3>
 
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ À propos de moi
 
 - 🔭 Je travaille actuellement sur **[ExoniaMC.fr](https://exoniamc.fr/)**
 
@@ -36,17 +36,17 @@
 
 <p align="center">
     <a href="https://github.com/Arad119GIT/github-readme-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Arad119GIT streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Arad119GIT&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
-## 📊 My Github Stats
+## 📊 Mes Statistiques Github
 
   <br/>
     <a href="https://github.com/Arad119GIT/github-readme-streak-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Arad119GIT&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Arad119GIT/github-readme-stats"><img alt="Mes Top Maitrises" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arad119GIT&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <b>Note:</b> Ce sont mes maitrises que j'utilise tous les jours, ceci n'indique pas mon vrai niveau.
 
 
 <br/>
