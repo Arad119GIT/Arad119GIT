@@ -71,4 +71,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Arad119GIT">
 </a>
-<a href="https://github.com/Arad119?tab=followers"><img src="https://img.shields.io/github/followers/Arad119GIT?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Arad119GIT?tab=followers"><img src="https://img.shields.io/github/followers/Arad119GIT?label=Followers&style=social" alt="GitHub Badge"></a>
