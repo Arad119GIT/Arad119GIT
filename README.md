@@ -57,7 +57,7 @@
 <br/>
 <br/>
 
-## Connect with me:
+## Pour me parler:
 <p align="left">
 
 <a href = "https://discord.gg/XjZr47tUKa"><img src="https://img.icons8.com/fluent/48/000000/discord.png"/></a>
@@ -67,7 +67,7 @@
 
 </p>
 
-## ❤ Views and Followers
+## ❤ Vues et Abonné(e)s
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Arad119GIT">
 </a>
